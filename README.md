@@ -3,5 +3,5 @@
 张正友法相机标定&amp;绘制立体矩形
 - [board.py](board.py) 生成虚拟棋盘格图片
 - [draw.py](draw.py) 根据标定参数绘制立体矩形和坐标轴
-- [calibration.py](calibration.py) 相机标定 生成内外方位元素
+- [calibration.py](calibration.py) 相机标定 生成内外方位元素  
 <img src='./dst_imgs/haochen_tian_1.jpg' width="300"><img src='./dst_imgs/haochen_tian_4.jpg' width="300">
